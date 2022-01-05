@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Simaom23
-- I’m interested in software, web and game development
-- I’m currently taking a college degree in informatic engineering.
+- I’m interested in software, web and game development.
+- I’m currently taking a college degree in informatic engineering and have a CS50 certificate.
 - I’m looking to collaborate on any project that helps me get better at programming.
 - 📫  How to reach me: simaocm23@gmail.com
 
