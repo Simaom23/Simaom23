@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Simaom23
-- I’m interested in software, web and game development.
-- I’m currently taking a college degree in informatic engineering and took the CS50 course a couple months ago.
-- I’m looking to collaborate on any project that helps me get better at programming.
+- I’m interested in software, web development and i'm a bit of a cinephile.
+- Currently, i'm working as a software developer at The Loop Co. I'm integrated in microservices department programming with java and other technologies.
 - 📫  How to reach me: simaocm23@gmail.com
 
 <!---
